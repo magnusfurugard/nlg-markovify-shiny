@@ -8,7 +8,7 @@ library(jsonlite)
 
 ui <- material_page(
   useShinyjs(),
-  title = "Basic Page",
+  title = "Tweet Generator",
   tags$br(),
   
   # Styling
