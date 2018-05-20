@@ -6,4 +6,5 @@ A small Shiny app, built with `shinymaterial` and `tweetDumpR` as it's corner st
 
 ## Dependencies
 nlg-markovify-api: https://github.com/magnusfurugard/nlg-markovify-api
+
 tweetDumpR: https://github.com/magnusfurugard/tweetDumpR
